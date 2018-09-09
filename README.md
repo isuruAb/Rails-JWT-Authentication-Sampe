@@ -6,6 +6,10 @@ Clone this repo
 
 * Create a db in your mysql server and add that name to the config/database.yml file
 
+Install dependencies 
+
+`bundle i`
+
 run migrations
 
 `rails db:migrate`
